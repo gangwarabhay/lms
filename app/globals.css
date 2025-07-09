@@ -1,1 +1,9 @@
 @import "tailwindcss";
+/* app/globals.css */
+
+
+
+/* Optional: Lora fallback */
+body {
+  font-family:sans-serif        ;
+}
