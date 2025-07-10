@@ -4,6 +4,9 @@
 
 
 /* Optional: Lora fallback */
-body {
-  font-family:sans-serif        ;
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+/* Apply Lora font globally or to specific utility */
+.lora-font {
+  font-family: 'Lora', serif;
 }

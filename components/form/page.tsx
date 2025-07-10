@@ -27,7 +27,9 @@ const Form = () => {
         onSubmit={handleSubmit}
         className="max-w-full mx-auto p-6 bg-white rounded shadow"
       >
-        <h2 className="text-3xl font-semibold font-serif text-[#004D46] mb-4 text-center">Contact Us</h2>
+        <h2 className="text-3xl font-semibold font-serif text-[#01464B] mb-4 text-center">
+          Contact Us
+        </h2>
 
         <label className="block w-full mb-2 text-gray-700">Name</label>
         <input
@@ -81,7 +83,7 @@ const Form = () => {
 
         <button
           type="submit"
-          className="w-full bg-[#004D46] text-white py-2 rounded hover:bg-[#004D46] transition duration-200"
+          className="w-full bg-[#01464B] text-white py-2 rounded hover:bg-[#004D46] transition duration-200"
         >
           Contact Us
         </button>
