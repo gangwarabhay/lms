@@ -48,7 +48,7 @@ const Home = () => {
               className="h-[306px] object-cover mt-4"
             />
             <p className="font-serif text-center text-gray-700 mt-2">
-              learnwithus.com
+               <a href="">learnwithus.com</a>
             </p>
           </div>
         </div>
