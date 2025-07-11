@@ -240,7 +240,7 @@ function privacy() {
           Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from
           sharing information with Google Analytics about visits activity. For
           more information on the privacy practices of Google, please visit the
-          Google Privacy & Terms web page:{" "}
+          Google Privacy & Terms web page:
           <a
             href="https://policies.google.com/privacy?hl=en"
             className="text-[#01464B] hover:opacity-50"
@@ -267,7 +267,7 @@ function privacy() {
         </p>
       </div>
       <div>
-        <p className="ml-9 mt-6  text-3xl font-semibold text-[#01464B]">
+        <p className="ml-10 mt-6  text-3xl font-semibold text-[#01464B]">
           Contact Us
         </p>
         <br />
