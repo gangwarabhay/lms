@@ -3,7 +3,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="w-full px-4 py-10 max-w-screen-xl mx-auto space-y-12">
+    <div className="w-full px-4 max-w-screen-xl mx-auto space-y-12">
       {/* Header */}
       <h1 className="text-3xl md:text-[37.5px] font-sans text-[#01464B] font-semibold text-center">
         About Us

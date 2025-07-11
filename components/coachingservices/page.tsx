@@ -4,7 +4,7 @@ import React from "react";
 
 const CoachingService = () => {
   return (
-    <div className="mt-6 px-4 sm:px-6 lg:px-12 py-10">
+    <div className="mt-6 px-4 sm:px-6 lg:px-12">
       <h1 className="text-[#01464B] font-semibold font-serif text-center text-3xl mb-10">
         Life Coaching Services
       </h1>
